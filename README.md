@@ -8,6 +8,9 @@ Le projet est entièrement **configurable** via un fichier d'environnement, perm
 
 Inspiré par le travail de [Defend Intelligence](https://github.com/anisayari/AIAssistantStreamer)
 
+### 📹 Demo 
+[![Démonstration du Co-pilote Luna](https://img.youtube.com/vi/-sxFMz6b0PU/0.jpg)](https://www.youtube.com/watch?v=-sxFMz6b0PU)
+
 ## 🛠️ Configuration et Installation
 
 ### 1\. Prérequis Système
